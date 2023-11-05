@@ -40,7 +40,7 @@ const Footer=()=>{
 
                             Blog<br></br>
                             Help Center<br></br>
-                            <span className="truncate overflow-ellipsis">What level of risk suits you best?</span><br></br>
+                            What level of risk suits you best?<br></br>
                             Home Planning Guide<br></br>
                             Financial Health Guide<br></br>
                             Equity and IPO Guide<br></br>
